@@ -1,0 +1,1 @@
+<h3>A simple PSR4 compliant application</h3>
